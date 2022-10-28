@@ -14,6 +14,7 @@ pip install -r requirements.txt
 <p>Drop all necessary dependencies</p>
 
 <h2> Dependencies / Prerequisites </h2>
+
 - Flask
 - Hashlib
 - Datetime
