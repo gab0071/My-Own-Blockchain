@@ -1,4 +1,4 @@
-<h1>Construcción de mi Blockchain con Python</h1>
+<h1>My own blockchain with python.</h1>
 <p>Programming my own blockchain with python, I wanted to put my theoretical knowledge into practice.</p>
 
 <p>In the end, if you are training in blockchain, the most important thing, once you acquire the basic knowledge, be it in cryptography, be it in theoretical foundations, programming, creation of dapps or video games, in whatever field, it is always good to have awareness of how things are done in this technology.</p>
@@ -10,7 +10,6 @@
 
 ```
 pip install -r requirements.txt
-
 ```  
 <p>Drop all necessary dependencies</p>
 
